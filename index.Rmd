@@ -1,0 +1,37 @@
+--- 
+title: "Cast Iron Garden: Plants for Scared People in Central Oklahoma"
+author: "C.M. Curry and P.M. Cimprich"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: baeolophus/cast_iron_garden
+description: "Plants for nervous gardeners."
+---
+
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
+
+# Introduction and notes to self
+
+Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+-Gardening for scared people.  Plants are easy and it's okay if some die.  That's how gardening works.
+-Soil types in Norman area and pictures of them wet and dry and crumbliness
+-Lawn post
+-Tree post
+-Easy ways to start
+-Calendar of seasons and what to do when
+-Which plants look dead in the winter but will come back
+-Is the plant movable and when is best and how
+-Species accounts with pictures of all stages and seeds
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
