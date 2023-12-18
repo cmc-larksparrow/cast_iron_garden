@@ -23,7 +23,7 @@ Remember each Rmd file contains one and only one chapter, and a chapter is defin
 -Soil types in Norman area and pictures of them wet and dry and crumbliness
 -Lawn post
 -Tree post
--Easy ways to start
+-Easy ways to start (leave leaves, stop pesticides, stop herbicides, etc)
 -Calendar of seasons and what to do when
 -Which plants look dead in the winter but will come back
 -Is the plant movable and when is best and how
