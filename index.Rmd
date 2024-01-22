@@ -20,14 +20,7 @@ options(tinytex.verbose = TRUE)
 
 Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
 -Gardening for scared people.  Plants are easy and it's okay if some die.  That's how gardening works.
--Soil types in Norman area and pictures of them wet and dry and crumbliness
--Lawn post
--Tree post
--Easy ways to start (leave leaves, stop pesticides, stop herbicides, etc)
--Calendar of seasons and what to do when
--Which plants look dead in the winter but will come back
--Is the plant movable and when is best and how
--Species accounts with pictures of all stages and seeds
+
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
