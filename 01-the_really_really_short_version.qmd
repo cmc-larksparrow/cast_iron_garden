@@ -17,9 +17,9 @@ Okay, first determine where you are and what kind of soil you have.
 
 
 Almost anywhere in Morman that's sunny and not touching standing water:
-- Maximilian sunflower
+- Maximilian sunflower\index{Sunflower}
 
-Shady:
+Shady\index{shade}:
 - White avens
 - Lyre Leaf sage
 - Inland Sea Oats

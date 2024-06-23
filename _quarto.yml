@@ -41,5 +41,12 @@ format:
     fontsize: 12pt
   pdf:
     documentclass: book
-    keep-tex: true
+    include-in-header:
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body:
+      text: |
+        \printindex
+    keep-tex: false
     cite-method: natbib
