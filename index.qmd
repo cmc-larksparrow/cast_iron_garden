@@ -2,15 +2,15 @@
 options(tinytex.verbose = TRUE)
 ```
 
-# Introduction and notes to self
+# What's the deal with native plants?
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
--Gardening for scared people.  Plants are easy and it's okay if some die.  That's how gardening works.
-
+- Help save the world
+- Save  money
+- 
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+  .packages(), 'quarto', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
