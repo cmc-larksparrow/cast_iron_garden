@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: _site
+  output-dir: _book
 
 documentclass: book
 
