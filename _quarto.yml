@@ -40,6 +40,6 @@ format:
     css: style.css
     fontsize: 12pt
   pdf:
-    documentclass: krantz
+    documentclass: book
     keep-tex: true
     cite-method: natbib
