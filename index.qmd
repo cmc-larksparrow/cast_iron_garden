@@ -1,17 +1,3 @@
---- 
-title: "Cast Iron Garden: Plants for Scared People in Central Oklahoma"
-author: "C.M. Curry and P.M. Cimprich"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-output: bookdown::gitbook
-documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
-github-repo: baeolophus/cast_iron_garden
-description: "Plants for nervous gardeners."
----
-
 ```{r, include=FALSE}
 options(tinytex.verbose = TRUE)
 ```

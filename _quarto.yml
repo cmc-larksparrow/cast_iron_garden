@@ -1,0 +1,45 @@
+project:
+  type: book
+  output-dir: _site
+
+documentclass: book
+
+github-repo: baeolophus/cast_iron_garden
+
+book:
+  title: "Cast Iron Garden: Plants for Scared People in Central Oklahoma"
+  author: "C.M. Curry and P.M. Cimprich"
+  search: true
+  downloads: [pdf]
+  page-footer: "Copyright 2024, Curry and Cimprich"
+  description: "Plants for nervous gardeners."
+  date: last-modified
+  chapters:
+    - index.qmd
+    - 01-the_really_really_short_version.qmd
+    - 02-from_the_ground_up.qmd
+    - 03-reduce_lawn.qmd
+    - 04-trees.qmd
+    - 05-garden_maintenance_by_month.qmd
+    - 05-species_accounts_example.qmd
+    - 10-references.qmd
+
+comments:
+  hypothesis: true
+
+
+bibliography:
+  - references.bib
+  - packages.bib
+
+format:
+  html:
+    theme: cosmo
+    code-background: true
+    code-copy: true
+    css: style.css
+    fontsize: 12pt
+  pdf:
+    documentclass: krantz
+    keep-tex: true
+    cite-method: natbib
