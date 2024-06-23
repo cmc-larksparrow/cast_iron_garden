@@ -34,7 +34,7 @@ bibliography:
 
 format:
   html:
-    theme: cosmo
+    toc: false
     code-background: true
     code-copy: true
     css: style.css
