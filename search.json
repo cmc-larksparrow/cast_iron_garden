@@ -102,11 +102,11 @@
   {
     "objectID": "10-references.html",
     "href": "10-references.html",
-    "title": "References",
+    "title": "8  References",
     "section": "",
-    "text": "r if (knitr:::is_html_output()) ' '",
+    "text": "Xie, Yihui. 2015. Dynamic Documents with R and\nKnitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.",
     "crumbs": [
-      "References"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>References</span>"
     ]
   }
 ]
