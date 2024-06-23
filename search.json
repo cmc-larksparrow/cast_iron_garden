@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cast Iron Garden: Plants for Scared People in Central Oklahoma",
+    "section": "",
+    "text": "1 Introduction and notes to self\nRemember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading #. -Gardening for scared people. Plants are easy and it’s okay if some die. That’s how gardening works.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction and notes to self</span>"
+    ]
+  },
+  {
+    "objectID": "01-the_really_really_short_version.html",
+    "href": "01-the_really_really_short_version.html",
+    "title": "2  The really really short version",
+    "section": "",
+    "text": "2.1 Stop killing things\nStop killing insects and plants. If you have plants breaking your driveway cracks, pour boiling water on it. We’ll get to roundup/bermudagrass/poison ivy in a bit, but for now, just stop until you know what you are doing.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
+    ]
+  },
+  {
+    "objectID": "01-the_really_really_short_version.html#stop-doing-so-much-unnecessary-work",
+    "href": "01-the_really_really_short_version.html#stop-doing-so-much-unnecessary-work",
+    "title": "2  The really really short version",
+    "section": "2.2 Stop doing so much unnecessary work",
+    "text": "2.2 Stop doing so much unnecessary work\nLeave the leaves. Leave the twigs. Leave stuff where it falls unless it’s a tripping hazard.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
+    ]
+  },
+  {
+    "objectID": "01-the_really_really_short_version.html#stop-watering-stuff-thats-not-in-pots",
+    "href": "01-the_really_really_short_version.html#stop-watering-stuff-thats-not-in-pots",
+    "title": "2  The really really short version",
+    "section": "2.3 Stop watering stuff that’s not in pots",
+    "text": "2.3 Stop watering stuff that’s not in pots\nSave time, save money, save water.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
+    ]
+  },
+  {
+    "objectID": "01-the_really_really_short_version.html#add-in-new-things-between-october-and-april.-not-in-the-summer",
+    "href": "01-the_really_really_short_version.html#add-in-new-things-between-october-and-april.-not-in-the-summer",
+    "title": "2  The really really short version",
+    "section": "2.4 Add in new things between October and April. (NOT IN THE SUMMER)",
+    "text": "2.4 Add in new things between October and April. (NOT IN THE SUMMER)\nPlants are easy if you put them in the right spot, and it’s okay if some die. This book covers a very small area, so I can tell you almost exactly what’s going to work at some place in your yard. But, it’s still okay if some plants die. That’s how gardening works. We do our best and keep going.\nOkay, first determine where you are and what kind of soil you have. -Soil types in Norman area and pictures of them wet and dry and crumbliness\nAlmost anywhere in Morman that’s sunny and not touching standing water: - Maximilian sunflower\nShady: - White avens - Lyre Leaf sage - Inland Sea Oats\nIf you have the red soil and live on the “north” (loosely north) side of town, these are your keystone plants:\nIf you have the sandy soil and elsewhere in town, plant these:\nYou can label chapter and section titles using {#label} after them, e.g., we can reference Chapter @ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter @ref(methods).\nFigures and tables with captions will be placed in figure and table environments, respectively.\n\npar(mar = c(4, 4, .1, .1))\nplot(pressure, type = 'b', pch = 19)\n\n\n\n\nHere is a nice figure!\n\n\n\n\nReference a figure by its code chunk label with the fig: prefix, e.g., see Figure @ref(fig:nice-fig). Similarly, you can reference tables generated from knitr::kable(), e.g., see Table @ref(tab:nice-tab).\n\nknitr::kable(\n  head(iris, 20), caption = 'Here is a nice table!',\n  booktabs = TRUE\n)\n\n\nHere is a nice table!\n\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\nSpecies\n\n\n\n\n5.1\n3.5\n1.4\n0.2\nsetosa\n\n\n4.9\n3.0\n1.4\n0.2\nsetosa\n\n\n4.7\n3.2\n1.3\n0.2\nsetosa\n\n\n4.6\n3.1\n1.5\n0.2\nsetosa\n\n\n5.0\n3.6\n1.4\n0.2\nsetosa\n\n\n5.4\n3.9\n1.7\n0.4\nsetosa\n\n\n4.6\n3.4\n1.4\n0.3\nsetosa\n\n\n5.0\n3.4\n1.5\n0.2\nsetosa\n\n\n4.4\n2.9\n1.4\n0.2\nsetosa\n\n\n4.9\n3.1\n1.5\n0.1\nsetosa\n\n\n5.4\n3.7\n1.5\n0.2\nsetosa\n\n\n4.8\n3.4\n1.6\n0.2\nsetosa\n\n\n4.8\n3.0\n1.4\n0.1\nsetosa\n\n\n4.3\n3.0\n1.1\n0.1\nsetosa\n\n\n5.8\n4.0\n1.2\n0.2\nsetosa\n\n\n5.7\n4.4\n1.5\n0.4\nsetosa\n\n\n5.4\n3.9\n1.3\n0.4\nsetosa\n\n\n5.1\n3.5\n1.4\n0.3\nsetosa\n\n\n5.7\n3.8\n1.7\n0.3\nsetosa\n\n\n5.1\n3.8\n1.5\n0.3\nsetosa\n\n\n\n\n\nYou can write citations, too. For example, we are using the bookdown package (R-bookdown?) in this sample book, which was built on top of R Markdown and knitr (Xie 2015).\n\n\n\n\nXie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
+    ]
+  },
+  {
+    "objectID": "02-from_the_ground_up.html",
+    "href": "02-from_the_ground_up.html",
+    "title": "3  From the ground up (aka soil, dirt, earth, etc)",
+    "section": "",
+    "text": "Let’s call it soil. “Dirt is what you sweep up” is another “all my weeds are wildflowers”. (who said the dirt vs soil thing?)\nMap of Norman with geology maps\nPictures of red clay, sandy loam, sand, and black clay wet and dry\nSome plants like some soil. Some like others. We’ll tell you which are which based on what we have tested and read.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>From the ground up (aka soil, dirt, earth, etc)</span>"
+    ]
+  },
+  {
+    "objectID": "03-reduce_lawn.html",
+    "href": "03-reduce_lawn.html",
+    "title": "4  Reduce, reuse, revegetate",
+    "section": "",
+    "text": "Lawn clippings as mulch, compost Lawn post from blog here",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reduce, reuse, revegetate</span>"
+    ]
+  },
+  {
+    "objectID": "04-trees.html",
+    "href": "04-trees.html",
+    "title": "5  What about trees?",
+    "section": "",
+    "text": "Tree post. What about trees?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>What about trees?</span>"
+    ]
+  },
+  {
+    "objectID": "05-garden_maintenance_by_month.html",
+    "href": "05-garden_maintenance_by_month.html",
+    "title": "6  Garden Calendar",
+    "section": "",
+    "text": "-Calendar of seasons and what to do when",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Garden Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "05-species_accounts_example.html",
+    "href": "05-species_accounts_example.html",
+    "title": "7  Species Accounts Model/Example",
+    "section": "",
+    "text": "-Which plants look dead in the winter but will come back -Is the plant movable and when is best and how -Species accounts with pictures of all stages and seeds -How and when can it be pruned -What shape if left alone? what shape in a group? -What size of containers can it be grown in? -foot/dog traffic -“agreeableness rating” a la diboll/cox/voigt -Observed and published lifespans\nLinks to all sources (bonap, ladybird center, dave’s garden, hostplant database archive, which books have more info)\nWhere can purchase (maybe??)",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Species Accounts Model/Example</span>"
+    ]
+  },
+  {
+    "objectID": "10-references.html",
+    "href": "10-references.html",
+    "title": "References",
+    "section": "",
+    "text": "r if (knitr:::is_html_output()) ' '",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
