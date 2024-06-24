@@ -20,7 +20,7 @@ Save time, save money, save water.
 
 Plants are easy if you put them in the right spot, and it's okay if some die. This book covers a very small area, so I can tell you almost exactly what's going to work at some place in your yard. But, it's still okay if some plants die. That's how gardening works. We do our best and keep going.
 
-### Pick plants that are tough
+#### Pick plants that are tough
 
 Just because a plant is native doesn't mean it's native to your yard. However, there are a few species that work all over town, usually.
 
@@ -28,14 +28,67 @@ first determine where you are and what kind of soil you have. Soil types in Norm
 
 Almost anywhere in Norman that's sunny and not touching standing water: - Maximilian sunflower\index{sunflower!Maximilian}
 
-Shady\index{shade}: - White avens - Lyre Leaf sage - Inland Sea Oats
+#### Shady\index{shade} habitats
 
-If you have the red soil\index{soil!red clay}and live on the "north" (loosely north) side of town, these are your keystone plants:
+-   White avens
 
-If you have the sandy soil\index{soil!sandy} and elsewhere in town, plant these:
+-   Lyre Leaf sage
+
+-   Inland Sea Oats
+
+-   Frostweed
+
+-   Texas mallow
+
+-   Fall obedient plant
+
+-   Horseherb
+
+-   Purpletop grass
+
+#### Sunny habitats
+
+If you have the red clay soil\index{soil!red clay}and live on the "north" (loosely north) side of town, these are your keystone plants:
+
+-   Maximilian sunflower
+
+-   Rudbeckia
+
+-   Little bluestem
+
+-   Showy evening primrose
+
+Sandy loams (not sticky clay, doesn't have giant cracks form in summer dry), but not loose sand
+
+-   Maximilian sunflower
+
+-   Rudbeckia
+
+-   Winecups
+
+-   Frogfruit
+
+-   Showy evening primrose @sec-pinkladies
+
+-   Fluttermill primrose @sec-fluttermill
+
+-   Common annual sunflower
+
+If you have sandy soil\index{soil!sandy} and elsewhere in town, plant these:
+
+-   Monarda punctata
+
+-   Spiderwort (which one?)
+
+-   Little bluestem
+
+-   Gaillardia aestivalis
+
+-   Tall thistle
 
 Dark clay\index{soil!black gumbo}
 
+-   I need to ask J/J what grows in their yard.
+
 For more species and what they like, see @sec-species.
 
-You can write citations, too. For example, we are using the **quarto** package [@R-quarto] to format this book.  Some ideas from [@odellHowNothing2019].
