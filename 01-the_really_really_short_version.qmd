@@ -1,28 +1,34 @@
-# The really really short version {#intro}
+# The really really short version {#sec-short}
 
-## Stop killing things
-Stop killing insects and plants.  If you have plants breaking your driveway cracks, pour boiling water on it.  We'll get to roundup/bermudagrass/poison ivy in a bit, but for now, just stop until you know what you are doing.
+## Stop stuff
 
-## Stop doing so much unnecessary work
-Leave the leaves.  Leave the twigs.  Leave stuff where it falls unless it's a tripping hazard.
+### Stop killing things
 
-## Stop watering stuff that's not in pots
+Stop killing insects and plants. If you have plants breaking your driveway cracks, pour boiling water on it. We'll get to roundup/bermudagrass/poison ivy in a bit, but for now, just stop until you know what you are doing.
+
+### Stop doing so much unnecessary work
+
+Leave the leaves. Leave the twigs. Leave stuff where it falls unless it's a tripping hazard.
+
+### Stop watering stuff that's not in pots
+
 Save time, save money, save water.
 
-## Add in new things between October and April.  (NOT IN THE SUMMER)
-Plants are easy if you put them in the right spot, and it's okay if some die. This book covers a very small area, so I can tell you almost exactly what's going to work at some place in your yard.  But, it's still okay if some plants die.  That's how gardening works.  We do our best and keep going.
+## Start stuff
 
-Okay, first determine where you are and what kind of soil you have.
--Soil types in Norman area and pictures of them wet and dry and crumbliness
+### Add in new things between October and April. (NOT IN THE SUMMER)
 
+Plants are easy if you put them in the right spot, and it's okay if some die. This book covers a very small area, so I can tell you almost exactly what's going to work at some place in your yard. But, it's still okay if some plants die. That's how gardening works. We do our best and keep going.
 
-Almost anywhere in Norman that's sunny and not touching standing water:
-- Maximilian sunflower\index{sunflower!Maximilian}
+### Pick plants that are tough
 
-Shady\index{shade}:
-- White avens
-- Lyre Leaf sage
-- Inland Sea Oats
+Just because a plant is native doesn't mean it's native to your yard. However, there are a few species that work all over town, usually.
+
+first determine where you are and what kind of soil you have. Soil types in Norman area and pictures of them wet and dry and crumbliness
+
+Almost anywhere in Norman that's sunny and not touching standing water: - Maximilian sunflower\index{sunflower!Maximilian}
+
+Shady\index{shade}: - White avens - Lyre Leaf sage - Inland Sea Oats
 
 If you have the red soil\index{soil!red clay}and live on the "north" (loosely north) side of town, these are your keystone plants:
 
@@ -30,25 +36,6 @@ If you have the sandy soil\index{soil!sandy} and elsewhere in town, plant these:
 
 Dark clay\index{soil!black gumbo}
 
+For more species and what they like, see @sec-species.
 
-
-
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
-
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
-
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
-
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
+You can write citations, too. For example, we are using the **quarto** package [@R-quarto] to format this book.  Some ideas from [@odellHowNothing2019].

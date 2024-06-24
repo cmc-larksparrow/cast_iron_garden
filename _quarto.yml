@@ -18,9 +18,9 @@ book:
 
   chapters:
     - index.qmd
-    - 01-the_really_really_short_version.qmd
     - part: gardening.qmd
       chapters:
+        - 01-the_really_really_short_version.qmd
         - 02-from_the_ground_up.qmd
         - 03-reduce_lawn.qmd
         - 04-trees.qmd
