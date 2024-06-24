@@ -30,6 +30,7 @@ book:
         - family_primroses.qmd
     - references.qmd
   appendices:
+    - easy_tough_species.qmd
     - garden_maintenance_by_month.qmd
     - buying_plants.qmd
 
