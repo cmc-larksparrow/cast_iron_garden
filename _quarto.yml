@@ -15,7 +15,8 @@ book:
   description: "Plants for nervous gardeners."
   date: last-modified
   page-navigation: true
-
+  reference-location: margin
+  citation-location: margin
   chapters:
     - index.qmd
     - 01-the_really_really_short_version.qmd
@@ -24,12 +25,12 @@ book:
         - 02-from_the_ground_up.qmd
         - 03-reduce_lawn.qmd
         - 04-trees.qmd
-        - 05-garden_maintenance_by_month.qmd
     - part: species_accounts.qmd
       chapters:
         - 05-species_accounts_example.qmd
     - 10-references.qmd
   appendices:
+    - garden_maintenance_by_month.qmd
     - buying_plants.qmd
 
 comments:
@@ -52,7 +53,7 @@ format:
     include-in-header:
       text: |
         \usepackage{makeidx}
-        \makeindex(columns=3, title=Alphabetical Index, intoc)
+        \makeindex
     include-after-body:
       text: |
         \printindex
