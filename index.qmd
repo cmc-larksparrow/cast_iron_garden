@@ -2,11 +2,15 @@
 options(tinytex.verbose = TRUE)
 ```
 
-# What's the deal with native plants?
+# Introduction: What's the deal with native plants? {.unnumbered}
 
+## Why should I bother switching to native plants?
 - Help save the world
 - Save  money
 
+
+## Book info
+This document was created are using the **quarto** package [@R-quarto] to format this book. Some ideas from [@odellHowNothing2019].
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

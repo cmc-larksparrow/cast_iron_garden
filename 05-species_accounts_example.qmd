@@ -1,33 +1,31 @@
 # Species Accounts Model/Example {#sec-species}
 
-## Which plants look dead in the winter but will come back
-
-## Is the plant movable and when is best and how
-
-## Species accounts with pictures of all stages and seeds
-
-## How and when can it be pruned
-
-## What shape if left alone? what shape in a group?
-
-## What size of containers can it be grown in?
-
-## foot/dog traffic
-
-## "agreeableness rating" a la diboll/cox/voigt
-
-## Observed and published lifespans
-
-## Links to all sources (bonap, ladybird center, dave's garden, hostplant database archive, which books have more info)
-
-## Commercially available (maybe? A lot of work)
-
-{{< pagebreak >}}
+This is what each section should have and mean.
 
 
-# Showy Evening Primrose / Pinkladies (*Oenethera speciosa*)
+## Imaginary Plant Species
+This plant is neato.
 
-{{< pagebreak >}}
 
+### Which plants look dead in the winter but will come back
+Leaves die back in winter, come back from base (not stem).
 
-# Fluttermill Evening Primrose / Missouri Primrose (*Oenethera macrocarpa*)
+### Is the plant movable and when is best and how
+
+### Species accounts with pictures of all stages and seeds
+
+### How and when can it be pruned
+
+### What shape if left alone? what shape in a group?
+
+### What size of containers can it be grown in?
+
+### foot/dog traffic
+
+### "agreeableness rating" a la diboll/cox/voigt
+
+### Observed and published lifespans
+
+### Links to all sources (bonap, ladybird center, dave's garden, hostplant database archive, which books have more info)
+
+### Commercially available (maybe? A lot of work)
