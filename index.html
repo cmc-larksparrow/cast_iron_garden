@@ -23,7 +23,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -33,7 +53,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./01-the_really_really_short_version.html" rel="next">
+<link href="./gardening.html" rel="next">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="style.css">
 </head>
 
-<body class="nav-sidebar floating fullcontent">
+<body class="nav-sidebar floating slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -90,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">What’s the deal with native plants?</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction: What’s the deal with native plants?</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -121,13 +141,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">What’s the deal with native plants?</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./01-the_really_really_short_version.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">The really really short version</span></span></a>
+ <span class="menu-text">Introduction: What’s the deal with native plants?</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -141,26 +155,26 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./01-the_really_really_short_version.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">The really really short version</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./02-from_the_ground_up.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">From the ground up (aka soil, dirt, earth, etc)</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">From the ground up (aka soil, dirt, earth, etc)</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./03-reduce_lawn.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Reduce, reuse, revegetate</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Reduce, reuse, revegetate</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./04-trees.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">What about trees?</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./05-garden_maintenance_by_month.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Garden Calendar</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">What about trees?</span></span></a>
   </div>
 </li>
       </ul>
@@ -177,14 +191,20 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./05-species_accounts_example.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Species Accounts Model/Example</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Species Accounts Model/Example</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./family_primroses.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Primrose family</span></span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./10-references.html" class="sidebar-item-text sidebar-link">
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">References</span></a>
   </div>
 </li>
@@ -199,8 +219,14 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./garden_maintenance_by_month.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Garden Calendar</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./buying_plants.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Favorite plant sources</span></span></a>
+ <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Favorite plant sources</span></span></a>
   </div>
 </li>
       </ul>
@@ -210,9 +236,10 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -250,14 +277,61 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="whats-the-deal-with-native-plants" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> What’s the deal with native plants?</h1>
+<section id="introduction-whats-the-deal-with-native-plants" class="level1 unnumbered page-columns page-full">
+<h1 class="unnumbered">Introduction: What’s the deal with native plants?</h1>
+<section id="why-should-i-bother-switching-to-native-plants-andor-putting-more-effort-into-my-yard" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="why-should-i-bother-switching-to-native-plants-andor-putting-more-effort-into-my-yard">Why should I bother switching to native plants and/or putting more effort into my yard?</h2>
 <ul>
-<li>Help save the world</li>
-<li>Save money</li>
+<li>Saving the world</li>
+<li>Saving you money</li>
 </ul>
+<section id="saving-the-world" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="saving-the-world">Saving the world</h3>
+<p>Several big problems can be addressed with native plants</p>
+<ul>
+<li>The biodiversity crisis in general
+<ul>
+<li>The insect apocalypse in particular</li>
+<li>Invasive species harming local ecosystems</li>
+</ul></li>
+<li>Water shortages</li>
+<li>Carbon footprints</li>
+</ul>
+<section id="are-you-really-serious-i-dont-think-my-garden-can-save-the-world." class="level4 page-columns page-full">
+<h4 class="anchored" data-anchor-id="are-you-really-serious-i-dont-think-my-garden-can-save-the-world.">Are you really serious, I don’t think my garden can save the world.</h4>
+<p>Actually, it can! Every plant can make a difference in ever-expanding human colonization of the landscape <span class="citation" data-cites="vogtRewildingSuburbiaAmerican2023">(<a href="references.html#ref-vogtRewildingSuburbiaAmerican2023" role="doc-biblioref">Vogt 2023</a>)</span>.</p>
+<div class="no-row-height column-margin column-container"><div id="ref-vogtRewildingSuburbiaAmerican2023" class="csl-entry" role="listitem">
+Vogt, Benjamin. 2023. <span>“Rewilding <span>Suburbia</span> in the <span>American Plains</span>.”</span> <em>Ecozon@: European Journal of Literature, Culture and Environment</em> 14 (1): 174–79. <a href="https://doi.org/10.37536/ECOZONA.2023.14.1.5063">https://doi.org/10.37536/ECOZONA.2023.14.1.5063</a>.
+</div></div><p>Water usage by lawns.</p>
+<p>Carbon footprint of shipping non-native plants or cut flowers, foods.</p>
+</section>
+<section id="i-live-in-an-apartment-i-dont-think-so." class="level4">
+<h4 class="anchored" data-anchor-id="i-live-in-an-apartment-i-dont-think-so.">I live in an apartment, I don’t think so.</h4>
+<p>Container gardening info.</p>
+</section>
+</section>
+<section id="saving-you-money" class="level3">
+<h3 class="anchored" data-anchor-id="saving-you-money">Saving you money</h3>
+<ul>
+<li>Water shortages</li>
+<li>Endless annuals from big box stores</li>
+<li>Fewer plants that fail dramatically</li>
+<li>Tax dollars spent keeping invasive species out of special places like public lands</li>
+<li>Tax subsidies spent keeping invasive species out of food/agricultural lands</li>
+</ul>
+</section>
+</section>
+<section id="book-info" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="book-info">Book info</h2>
+<p>This document was created are using the <strong>quarto</strong> package <span class="citation" data-cites="R-quarto">(<a href="references.html#ref-R-quarto" role="doc-biblioref">Allaire and Dervieux 2024</a>)</span> to format this book. Some ideas from <span class="citation" data-cites="odellHowNothing2019">(<a href="references.html#ref-odellHowNothing2019" role="doc-biblioref">Odell 2019</a>)</span>.</p>
 
 
+<div class="no-row-height column-margin column-container"><div id="ref-R-quarto" class="csl-entry" role="listitem">
+Allaire, JJ, and Christophe Dervieux. 2024. <em>Quarto: R Interface to Quarto Markdown Publishing System</em>. <a href="https://github.com/quarto-dev/quarto-r">https://github.com/quarto-dev/quarto-r</a>.
+</div><div id="ref-odellHowNothing2019" class="csl-entry" role="listitem">
+Odell, Jenny. 2019. <em>How to <span>Do Nothing</span></em>.
+</div></div>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -674,8 +748,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./01-the_really_really_short_version.html" class="pagination-link" aria-label="The really really short version">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">The really really short version</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./gardening.html" class="pagination-link" aria-label="Gardening is not as scary as it seems">
+        <span class="nav-page-text">Gardening is not as scary as it seems</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

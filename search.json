@@ -4,136 +4,182 @@
     "href": "index.html",
     "title": "Cast Iron Garden: Plants for Scared People in Central Oklahoma",
     "section": "",
-    "text": "1 What’s the deal with native plants?\n\nHelp save the world\nSave money",
+    "text": "Introduction: What’s the deal with native plants?",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What's the deal with native plants?</span>"
+      "Introduction: What's the deal with native plants?"
+    ]
+  },
+  {
+    "objectID": "index.html#why-should-i-bother-switching-to-native-plants-andor-putting-more-effort-into-my-yard",
+    "href": "index.html#why-should-i-bother-switching-to-native-plants-andor-putting-more-effort-into-my-yard",
+    "title": "Cast Iron Garden: Plants for Scared People in Central Oklahoma",
+    "section": "Why should I bother switching to native plants and/or putting more effort into my yard?",
+    "text": "Why should I bother switching to native plants and/or putting more effort into my yard?\n\nSaving the world\nSaving you money\n\n\nSaving the world\nSeveral big problems can be addressed with native plants\n\nThe biodiversity crisis in general\n\nThe insect apocalypse in particular\nInvasive species harming local ecosystems\n\nWater shortages\nCarbon footprints\n\n\nAre you really serious, I don’t think my garden can save the world.\nActually, it can! Every plant can make a difference in ever-expanding human colonization of the landscape (Vogt 2023).\n\nVogt, Benjamin. 2023. “Rewilding Suburbia in the American Plains.” Ecozon@: European Journal of Literature, Culture and Environment 14 (1): 174–79. https://doi.org/10.37536/ECOZONA.2023.14.1.5063.\nWater usage by lawns.\nCarbon footprint of shipping non-native plants or cut flowers, foods.\n\n\nI live in an apartment, I don’t think so.\nContainer gardening info.\n\n\n\nSaving you money\n\nWater shortages\nEndless annuals from big box stores\nFewer plants that fail dramatically\nTax dollars spent keeping invasive species out of special places like public lands\nTax subsidies spent keeping invasive species out of food/agricultural lands",
+    "crumbs": [
+      "Introduction: What's the deal with native plants?"
+    ]
+  },
+  {
+    "objectID": "index.html#book-info",
+    "href": "index.html#book-info",
+    "title": "Cast Iron Garden: Plants for Scared People in Central Oklahoma",
+    "section": "Book info",
+    "text": "Book info\nThis document was created are using the quarto package (Allaire and Dervieux 2024) to format this book. Some ideas from (Odell 2019).\n\n\n\nAllaire, JJ, and Christophe Dervieux. 2024. Quarto: R Interface to Quarto Markdown Publishing System. https://github.com/quarto-dev/quarto-r.\n\nOdell, Jenny. 2019. How to Do Nothing.",
+    "crumbs": [
+      "Introduction: What's the deal with native plants?"
     ]
   },
   {
     "objectID": "01-the_really_really_short_version.html",
     "href": "01-the_really_really_short_version.html",
-    "title": "2  The really really short version",
+    "title": "1  The really really short version",
     "section": "",
-    "text": "2.1 Stop killing things\nStop killing insects and plants. If you have plants breaking your driveway cracks, pour boiling water on it. We’ll get to roundup/bermudagrass/poison ivy in a bit, but for now, just stop until you know what you are doing.",
+    "text": "1.1 Stop stuff",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
+      "Gardening is not as scary as it seems",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The really really short version</span>"
     ]
   },
   {
-    "objectID": "01-the_really_really_short_version.html#stop-doing-so-much-unnecessary-work",
-    "href": "01-the_really_really_short_version.html#stop-doing-so-much-unnecessary-work",
-    "title": "2  The really really short version",
-    "section": "2.2 Stop doing so much unnecessary work",
-    "text": "2.2 Stop doing so much unnecessary work\nLeave the leaves. Leave the twigs. Leave stuff where it falls unless it’s a tripping hazard.",
+    "objectID": "01-the_really_really_short_version.html#stop-stuff",
+    "href": "01-the_really_really_short_version.html#stop-stuff",
+    "title": "1  The really really short version",
+    "section": "",
+    "text": "1.1.1 Stop killing things\nStop killing insects and plants. If you have plants breaking your driveway cracks, pour boiling water on it. We’ll get to roundup/bermudagrass/poison ivy in a bit, but for now, just stop until you know what you are doing.\n\n\n1.1.2 Stop doing so much unnecessary work\nLeave the leaves. Leave the twigs. Leave stuff where it falls unless it’s a tripping hazard.\n\n\n1.1.3 Stop watering stuff that’s not in pots\nSave time, save money, save water.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
+      "Gardening is not as scary as it seems",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The really really short version</span>"
     ]
   },
   {
-    "objectID": "01-the_really_really_short_version.html#stop-watering-stuff-thats-not-in-pots",
-    "href": "01-the_really_really_short_version.html#stop-watering-stuff-thats-not-in-pots",
-    "title": "2  The really really short version",
-    "section": "2.3 Stop watering stuff that’s not in pots",
-    "text": "2.3 Stop watering stuff that’s not in pots\nSave time, save money, save water.",
+    "objectID": "01-the_really_really_short_version.html#start-stuff",
+    "href": "01-the_really_really_short_version.html#start-stuff",
+    "title": "1  The really really short version",
+    "section": "1.2 Start stuff",
+    "text": "1.2 Start stuff\n\n1.2.1 Add in new things between October and April. (NOT IN THE SUMMER)\nPlants are easy if you put them in the right spot, and it’s okay if some die. This book covers a very small area, so I can tell you almost exactly what’s going to work at some place in your yard. But, it’s still okay if some plants die. That’s how gardening works. We do our best and keep going.\n\n1.2.1.1 Pick plants that are tough\nJust because a plant is native doesn’t mean it’s native to your yard. However, there are a few species that work all over town, usually.\nfirst determine where you are and what kind of soil you have. Soil types in Norman area and pictures of them wet and dry and crumbliness\nAlmost anywhere in Norman that’s sunny and not touching standing water: - Maximilian sunflower\n\n\n1.2.1.2 Shady habitats\n\nWhite avens\nLyre Leaf sage\nInland Sea Oats\nFrostweed\nTexas mallow\nFall obedient plant\nHorseherb\nPurpletop grass\n\n\n\n1.2.1.3 Sunny habitats\nIf you have the red clay soiland live on the “north” (loosely north) side of town, these are your keystone plants:\n\nMaximilian sunflower\nRudbeckia\nLittle bluestem\nShowy evening primrose\n\nSandy loams (not sticky clay, doesn’t have giant cracks form in summer dry), but not loose sand\n\nMaximilian sunflower\nRudbeckia\nWinecups\nFrogfruit\nShowy evening primrose Section 6.1\nFluttermill primrose Section 6.2\nCommon annual sunflower\n\nIf you have sandy soil and elsewhere in town, plant these:\n\nMonarda punctata\nSpiderwort (which one?)\nLittle bluestem\nGaillardia aestivalis\nTall thistle\n\nDark clay\n\nI need to ask J/J what grows in their yard.\n\nFor more species and what they like, see Chapter 5.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
-    ]
-  },
-  {
-    "objectID": "01-the_really_really_short_version.html#add-in-new-things-between-october-and-april.-not-in-the-summer",
-    "href": "01-the_really_really_short_version.html#add-in-new-things-between-october-and-april.-not-in-the-summer",
-    "title": "2  The really really short version",
-    "section": "2.4 Add in new things between October and April. (NOT IN THE SUMMER)",
-    "text": "2.4 Add in new things between October and April. (NOT IN THE SUMMER)\nPlants are easy if you put them in the right spot, and it’s okay if some die. This book covers a very small area, so I can tell you almost exactly what’s going to work at some place in your yard. But, it’s still okay if some plants die. That’s how gardening works. We do our best and keep going.\nOkay, first determine where you are and what kind of soil you have. -Soil types in Norman area and pictures of them wet and dry and crumbliness\nAlmost anywhere in Norman that’s sunny and not touching standing water: - Maximilian sunflower\nShady: - White avens - Lyre Leaf sage - Inland Sea Oats\nIf you have the red soiland live on the “north” (loosely north) side of town, these are your keystone plants:\nIf you have the sandy soil and elsewhere in town, plant these:\nDark clay\nYou can label chapter and section titles using {#label} after them, e.g., we can reference Chapter @ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter @ref(methods).\nFigures and tables with captions will be placed in figure and table environments, respectively.\n\npar(mar = c(4, 4, .1, .1))\nplot(pressure, type = 'b', pch = 19)\n\n\n\n\nHere is a nice figure!\n\n\n\n\nReference a figure by its code chunk label with the fig: prefix, e.g., see Figure @ref(fig:nice-fig). Similarly, you can reference tables generated from knitr::kable(), e.g., see Table @ref(tab:nice-tab).\n\nknitr::kable(\n  head(iris, 20), caption = 'Here is a nice table!',\n  booktabs = TRUE\n)\n\n\nHere is a nice table!\n\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\nSpecies\n\n\n\n\n5.1\n3.5\n1.4\n0.2\nsetosa\n\n\n4.9\n3.0\n1.4\n0.2\nsetosa\n\n\n4.7\n3.2\n1.3\n0.2\nsetosa\n\n\n4.6\n3.1\n1.5\n0.2\nsetosa\n\n\n5.0\n3.6\n1.4\n0.2\nsetosa\n\n\n5.4\n3.9\n1.7\n0.4\nsetosa\n\n\n4.6\n3.4\n1.4\n0.3\nsetosa\n\n\n5.0\n3.4\n1.5\n0.2\nsetosa\n\n\n4.4\n2.9\n1.4\n0.2\nsetosa\n\n\n4.9\n3.1\n1.5\n0.1\nsetosa\n\n\n5.4\n3.7\n1.5\n0.2\nsetosa\n\n\n4.8\n3.4\n1.6\n0.2\nsetosa\n\n\n4.8\n3.0\n1.4\n0.1\nsetosa\n\n\n4.3\n3.0\n1.1\n0.1\nsetosa\n\n\n5.8\n4.0\n1.2\n0.2\nsetosa\n\n\n5.7\n4.4\n1.5\n0.4\nsetosa\n\n\n5.4\n3.9\n1.3\n0.4\nsetosa\n\n\n5.1\n3.5\n1.4\n0.3\nsetosa\n\n\n5.7\n3.8\n1.7\n0.3\nsetosa\n\n\n5.1\n3.8\n1.5\n0.3\nsetosa\n\n\n\n\n\nYou can write citations, too. For example, we are using the bookdown package (R-bookdown?) in this sample book, which was built on top of R Markdown and knitr (Xie 2015).\n\n\n\n\nXie, Yihui. 2015. Dynamic Documents with R and Knitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>The really really short version</span>"
+      "Gardening is not as scary as it seems",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>The really really short version</span>"
     ]
   },
   {
     "objectID": "02-from_the_ground_up.html",
     "href": "02-from_the_ground_up.html",
-    "title": "3  From the ground up (aka soil, dirt, earth, etc)",
+    "title": "2  From the ground up (aka soil, dirt, earth, etc)",
     "section": "",
     "text": "Let’s call it soil. “Dirt is what you sweep up” is another “all my weeds are wildflowers”. (who said the dirt vs soil thing?)\nMap of Norman with geology maps\nPictures of red clay, sandy loam, sand, and black clay wet and dry\nSome plants like some soil. Some like others. We’ll tell you which are which based on what we have tested and read.",
     "crumbs": [
       "Gardening is not as scary as it seems",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>From the ground up (aka soil, dirt, earth, etc)</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>From the ground up (aka soil, dirt, earth, etc)</span>"
     ]
   },
   {
     "objectID": "03-reduce_lawn.html",
     "href": "03-reduce_lawn.html",
-    "title": "4  Reduce, reuse, revegetate",
+    "title": "3  Reduce, reuse, revegetate",
     "section": "",
     "text": "Lawn clippings as mulch, compost Lawn post from blog here",
     "crumbs": [
       "Gardening is not as scary as it seems",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reduce, reuse, revegetate</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reduce, reuse, revegetate</span>"
     ]
   },
   {
     "objectID": "04-trees.html",
     "href": "04-trees.html",
-    "title": "5  What about trees?",
+    "title": "4  What about trees?",
     "section": "",
     "text": "Tree post. What about trees?",
     "crumbs": [
       "Gardening is not as scary as it seems",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>What about trees?</span>"
-    ]
-  },
-  {
-    "objectID": "05-garden_maintenance_by_month.html",
-    "href": "05-garden_maintenance_by_month.html",
-    "title": "6  Garden Calendar",
-    "section": "",
-    "text": "-Calendar of seasons and what to do when",
-    "crumbs": [
-      "Gardening is not as scary as it seems",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Garden Calendar</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>What about trees?</span>"
     ]
   },
   {
     "objectID": "05-species_accounts_example.html",
     "href": "05-species_accounts_example.html",
-    "title": "7  Species Accounts Model/Example",
+    "title": "5  Species Accounts Model/Example",
     "section": "",
-    "text": "-Which plants look dead in the winter but will come back -Is the plant movable and when is best and how -Species accounts with pictures of all stages and seeds -How and when can it be pruned -What shape if left alone? what shape in a group? -What size of containers can it be grown in? -foot/dog traffic -“agreeableness rating” a la diboll/cox/voigt -Observed and published lifespans\nLinks to all sources (bonap, ladybird center, dave’s garden, hostplant database archive, which books have more info)\nWhere can purchase (maybe??)",
+    "text": "5.1 Imaginary Plant Species\nThis plant is neato.",
     "crumbs": [
       "Species accounts",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Species Accounts Model/Example</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Species Accounts Model/Example</span>"
     ]
   },
   {
-    "objectID": "10-references.html",
-    "href": "10-references.html",
+    "objectID": "05-species_accounts_example.html#imaginary-plant-species",
+    "href": "05-species_accounts_example.html#imaginary-plant-species",
+    "title": "5  Species Accounts Model/Example",
+    "section": "",
+    "text": "5.1.1 Which plants look dead in the winter but will come back\nLeaves die back in winter, come back from base (not stem).\n\n\n5.1.2 Is the plant movable and when is best and how\n\n\n5.1.3 Species accounts with pictures of all stages and seeds\n\n\n5.1.4 How and when can it be pruned\n\n\n5.1.5 What shape if left alone? what shape in a group?\n\n\n5.1.6 What size of containers can it be grown in?\n\n\n5.1.7 foot/dog traffic\n\n\n5.1.8 “agreeableness rating” a la diboll/cox/voigt\n\n\n5.1.9 Observed and published lifespans\n\n\n5.1.10 Links to all sources (bonap, ladybird center, dave’s garden, hostplant database archive, which books have more info)\n\n\n5.1.11 Commercially available (maybe? A lot of work)",
+    "crumbs": [
+      "Species accounts",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Species Accounts Model/Example</span>"
+    ]
+  },
+  {
+    "objectID": "family_primroses.html",
+    "href": "family_primroses.html",
+    "title": "6  Primrose family",
+    "section": "",
+    "text": "6.1 Showy Evening Primrose / Pinkladies (Oenethera speciosa)",
+    "crumbs": [
+      "Species accounts",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Primrose family</span>"
+    ]
+  },
+  {
+    "objectID": "family_primroses.html#sec-fluttermill",
+    "href": "family_primroses.html#sec-fluttermill",
+    "title": "6  Primrose family",
+    "section": "6.2 Fluttermill Evening Primrose / Missouri Primrose (Oenethera macrocarpa)",
+    "text": "6.2 Fluttermill Evening Primrose / Missouri Primrose (Oenethera macrocarpa)",
+    "crumbs": [
+      "Species accounts",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Primrose family</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Xie, Yihui. 2015. Dynamic Documents with R and\nKnitr. 2nd ed. Boca Raton, Florida: Chapman; Hall/CRC. http://yihui.name/knitr/.",
+    "text": "Allaire, JJ, and Christophe Dervieux. 2024. Quarto: R Interface to\nQuarto Markdown Publishing System. https://github.com/quarto-dev/quarto-r.\n\n\nOdell, Jenny. 2019. How to Do Nothing.\n\n\nVogt, Benjamin. 2023. “Rewilding Suburbia in the\nAmerican Plains.” Ecozon@: European Journal of\nLiterature, Culture and Environment 14 (1): 174–79. https://doi.org/10.37536/ECOZONA.2023.14.1.5063.",
     "crumbs": [
       "References"
     ]
   },
   {
-    "objectID": "buying_plants.html",
-    "href": "buying_plants.html",
-    "title": "Appendix A — Favorite plant sources",
+    "objectID": "garden_maintenance_by_month.html",
+    "href": "garden_maintenance_by_month.html",
+    "title": "Appendix A — Garden Calendar",
     "section": "",
-    "text": "A.1 Online",
+    "text": "-Calendar of seasons and what to do when",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Favorite plant sources</span>"
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Garden Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "buying_plants.html",
+    "href": "buying_plants.html",
+    "title": "Appendix B — Favorite plant sources",
+    "section": "",
+    "text": "B.1 Online",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Favorite plant sources</span>"
     ]
   },
   {
     "objectID": "buying_plants.html#in-person",
     "href": "buying_plants.html#in-person",
-    "title": "Appendix A — Favorite plant sources",
-    "section": "A.2 In person",
-    "text": "A.2 In person",
+    "title": "Appendix B — Favorite plant sources",
+    "section": "B.2 In person",
+    "text": "B.2 In person",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Favorite plant sources</span>"
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Favorite plant sources</span>"
     ]
   }
 ]
