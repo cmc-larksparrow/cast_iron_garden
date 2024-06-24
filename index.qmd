@@ -13,16 +13,16 @@ options(tinytex.verbose = TRUE)
 
 Several big problems can be addressed with native plants
 
--   The biodiversity crisis in general
-    -   The insect apocalypse in particular
-    -   Invasive species harming local ecosystems
--   Water shortages
--   Carbon footprints
+1. The biodiversity crisis in general
+    a. The insect apocalypse in particular
+    b.  Invasive species harming local ecosystems
+2. Water shortages
+3. Carbon footprints
 
 
 #### Are you really serious, I don't think my garden can save the world.
 
-Actually, it can! Every plant can make a difference in ever-expanding human colonization of the landscape [@vogtRewildingSuburbiaAmerican2023].
+Actually, it can! Every plant can make a difference in ever-expanding human colonization of the landscape [@vogtRewildingSuburbiaAmerican2023].  Many insects are tiny, and thus even tiny changes can help them [@TinyPlacesTiny].
 
 Water usage by lawns.
 
