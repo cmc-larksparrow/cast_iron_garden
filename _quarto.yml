@@ -52,7 +52,7 @@ format:
     include-in-header:
       text: |
         \usepackage{makeidx}
-        \makeindex
+        \makeindex(columns=3, title=Alphabetical Index, intoc)
     include-after-body:
       text: |
         \printindex
