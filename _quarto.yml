@@ -15,8 +15,7 @@ book:
   description: "Plants for nervous gardeners."
   date: last-modified
   page-navigation: true
-  reference-location: margin
-  citation-location: margin
+
   chapters:
     - index.qmd
     - 01-the_really_really_short_version.qmd
@@ -41,6 +40,7 @@ bibliography:
   - references.bib
   - packages.bib
 
+
 format:
   html:
     toc: false
@@ -48,6 +48,8 @@ format:
     code-copy: true
     css: style.css
     fontsize: 12pt
+    reference-location: margin
+    citation-location: margin
   pdf:
     documentclass: book
     include-in-header:
@@ -59,3 +61,5 @@ format:
         \printindex
     keep-tex: false
     cite-method: natbib
+    reference-location: margin
+    citation-location: margin
