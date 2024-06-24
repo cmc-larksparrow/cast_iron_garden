@@ -6,11 +6,11 @@ options(tinytex.verbose = TRUE)
 
 - Help save the world
 - Save  money
-- 
+
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
-  .packages(), 'quarto', 'knitr', 'rmarkdown'
+  .packages()
 ), 'packages.bib')
 ```
