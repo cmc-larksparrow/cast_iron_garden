@@ -8,8 +8,24 @@ options(tinytex.verbose = TRUE)
 
 -   Saving the world
 -   Saving you money
+-   Saving you time
+
+::: {#fig-sellingpoints layout="[1,1]" layout-valign="bottom"}
+
+![Before](img/Firefly_one.png){#fig-before fig-alt="A single abstract firefly representing by a starburst of lines" width=5%}
+
+![After](img/Firefly_abstract.png){#fig-after fig-alt="Multiple abstract fireflies"}
+
+What native plants can do for the world
+
+:::
+
+{{< pagebreak >}}
 
 ### Saving the world
+::: {.column-margin}
+![This butterfly has no home and will die soon.](img/Sad_butterfly.png){fig-alt="A sad butterfly, with drooping wings and antennae, and a frown face."}
+:::
 
 Several big problems can be addressed with native plants
 
@@ -22,6 +38,10 @@ Several big problems can be addressed with native plants
 
 #### Are you really serious, I don't think my garden can save the world.
 
+::: {.column-margin}
+![Yay! This butterfly can thrive and support a family!](img/Happy_butterfly.png){fig-alt="A happy butterfly, holding a steaming cup of delicious nectar."}
+:::
+
 Actually, it can! Every plant can make a difference in ever-expanding human colonization of the landscape [@vogtRewildingSuburbiaAmerican2023].  Many insects are tiny, and thus even tiny changes can help them [@TinyPlacesTiny].
 
 Water usage by lawns.
@@ -32,14 +52,32 @@ Carbon footprint of shipping non-native plants or cut flowers, foods.
 #### I live in an apartment, I don't think so.
 Container gardening info.
 
+{{< pagebreak >}}
+
 ### Saving you money
+
+::: {.column-margin}
+![Before: no native plants in your garden](img/Losing_money.png){fig-alt="A stack of paper money with wings, flying away from you."}
+:::
+
 - Water shortages
 - Endless annuals from big box stores
 - Fewer plants that fail dramatically
 - Tax dollars spent keeping invasive species out of special places like public lands
 - Tax subsidies spent keeping invasive species out of food/agricultural lands
 
+::: {.column-margin}
+![After: with native plants in your garden](img/Moneybag_bw.png){fig-alt="The sack of money you'll save with a native plant garden"}
+:::
 
+{{< pagebreak >}}
+
+### Saving you time
+This overlaps a lot with saving you money.  But also, once things are established in appropriate habitats, goodbye endless watering!  
+
+This does not count if you become an obsessive gardener.
+
+{{< pagebreak >}}
 
 ## Book info
 
